@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Nilar Will Nilar Will Nilar Will Nilar Will Will attempt to recover by breaking constraint <NSLayoutConstraint:0x600000e2eb70 UIButton:0x136539300.height == 0   (active)>",
+        "email": "nilar123456789123456789123456789123456789789@gmail.com",
+        "password": 123456,
+        "profile": "",
+        "type" : "1",
+        "phone" : "09123456789",
+        "address" : "Will attempt to recover by breaking constraint <NSLayoutConstraint:0x600000e2eb70 UIButton:0x136539300.height == 0   (active)> Will attempt to recover by breaking constraint <NSLayoutConstraint:0x600000e2eb70 UIButton:0x136539300.height == 0   (active)> Will attempt to recover by breaking constraint <NSLayoutConstraint:0x600000e2eb70 UIButton:0x136539300.height == 0   (active)>",
+        "dob" : "2022-08-02",
+        "create_user_id": 1,
+        "created_at" : "2022-08-01"
+    },
+    {
+        "id": 2,
+        "name": "Nilar",
+        "email": "nilar@gmail.com",
+        "password": 123456,
+        "profile": "",
+        "type" : "1",
+        "phone" : "09123456789",
+        "address" : "Hlaing",
+        "dob" : "2022-08-02",
+        "create_user_id": 2,
+        "created_at" : "2022-08-01"
+    },
+    {
+        "id": 3,
+        "name": "Nilar",
+        "email": "nilar@gmail.com",
+        "password": 123456,
+        "profile": "",
+        "type" : "1",
+        "phone" : "09123456789",
+        "address" : "Hlaing",
+        "dob" : "2022-08-02",
+        "create_user_id": 1,
+        "created_at" : "2022-08-01"
+    },
+    {
+        "id": 1,
+        "name": "Nilar",
+        "email": "nilar@gmail.com",
+        "password": 123456,
+        "profile": "",
+        "type" : "1",
+        "phone" : "09123456789",
+        "address" : "Hlaing",
+        "dob" : "2022-08-02",
+        "create_user_id": 3,
+        "created_at" : "2022-08-01"
+    },
+    {
+        "id": 2,
+        "name": "Nilar",
+        "email": "nilar@gmail.com",
+        "password": 123456,
+        "profile": "",
+        "type" : "1",
+        "phone" : "09123456789",
+        "address" : "Hlaing",
+        "dob" : "2022-08-02",
+        "create_user_id": 1,
+        "created_at" : "2022-08-01"
+    },
+    {
+        "id": 3,
+        "name": "Nilar",
+        "email": "nilar@gmail.com",
+        "password": 123456,
+        "profile": "",
+        "type" : "1",
+        "phone" : "09123456789",
+        "address" : "Hlaing",
+        "dob" : "2022-08-02",
+        "create_user_id": 2,
+        "created_at" : "2022-08-01"
+    }
+]
